@@ -1,1 +1,1 @@
-image: gcr.io/deeplearning-platform-release/base-cpu
+image: gcr.io/deeplearning-platform-release/r-cpu
